@@ -1,1 +1,1 @@
-# euroleague-pythagorean-expectation
+# basketball-pythagorean-expectation
