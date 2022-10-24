@@ -1,0 +1,3 @@
+[submodule "sports-logos"]
+	path = sports-logos
+	url = git@github.com:timurkulenovic/sports-logos.git
